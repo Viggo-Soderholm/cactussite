@@ -1,0 +1,118 @@
+body {
+  background-color: rgb(0, 174, 0);
+  font-family: sans-serif;
+}
+
+.main {
+  margin: 0px;
+  padding: 10px;
+}
+
+.homebutton {
+  background-color: white;
+  border-color: rgb(255, 117, 117);
+  border-style: solid;
+  border-width: 5px;
+  padding: 5px;
+  color: darkslategray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.somethingstupid {
+  display: flex;
+}
+
+.textbox {
+  background-color: white;
+  border-color: rgb(255, 117, 117);
+  border-style: solid;
+  border-width: 5px;
+  padding: 5px;
+  margin: 5px;
+  color: darkslategray;
+  display: flex;
+  align-items: flex-start;
+  width: 600px;
+}
+
+.textbox2 {
+  background-color: white;
+  border-color: rgb(255, 117, 117);
+  border-style: solid;
+  border-width: 5px;
+  padding: 5px;
+  margin: 5px;
+  color: darkslategray;
+  display: flex;
+  align-items: flex-start;
+  width: 1500px;
+}
+
+.textbox3 {
+  background-color: white;
+  border-color: rgb(255, 117, 117);
+  border-style: solid;
+  border-width: 5px;
+  padding: 5px;
+  margin: 5px;
+  color: darkslategray;
+  display: flex;
+  width: 1200px;
+  height: 170px;
+}
+
+.pictuer1 {
+  background-color: white;
+  border-color: rgb(255, 117, 117);
+  border-style: solid;
+  border-width: 5px;
+  padding: 5px;
+  margin: 5px;
+  display: flex;
+  width: 613px;
+}
+
+.pictuer2 {
+  background-color: white;
+  border-color: rgb(255, 117, 117);
+  border-style: solid;
+  border-width: 5px;
+  padding: 5px;
+  margin: 5px;
+  display: flex;
+  width: 1200x;
+}
+
+.pictuer2 img {
+  width: 1240px;
+  height: 300px;
+}
+
+.picture3 {
+  background-color: white;
+  border-color: rgb(255, 117, 117);
+  border-style: solid;
+  border-width: 5px;
+  padding: 5px;
+  margin: 5px;
+  display: flex;
+  align-content: flex-start;
+  width: 1200px;
+}
+
+.picture3 img {
+  width: 1200px;
+}
+
+a {
+  font-size: 30px;
+  text-decoration: none;
+  color: darkgreen;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
